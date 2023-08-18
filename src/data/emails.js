@@ -1,29 +1,29 @@
 export default [
   {
     id: 1,
-    sender: `Zoom`,
-    title: `Cloud Recording - Nicolas Marcora's Personal Meeting Room is now available`,
+    sender: `FBI`,
+    title: `Recruiting hackers- You have been noticed by us!`,
     starred: false,
     read: true
   },
   {
     id: 2,
-    sender: `Zoom`,
-    title: `Sean Davison has joined your Personal Meeting Room`,
+    sender: `Annefleur from the past`,
+    title: `Remember - when you learn something first you get frustrated, then you get it, relax, you got this`,
     starred: false,
     read: false
   },
   {
     id: 3,
-    sender: `Notion`,
-    title: `1 update in Boolean`,
+    sender: `Me`,
+    title: `I am deadserious- you got this`,
     starred: true,
     read: true
   },
   {
     id: 4,
-    sender: `The Calendly Team`,
-    title: `Use more than one calendar?`,
+    sender: `Toad-land`,
+    title: `Because you love toads and we know it!`,
     starred: false,
     read: false
   },
